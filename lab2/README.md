@@ -29,7 +29,7 @@ Lab 2 focuses on applying agile project management principles using **Jira Softw
 | **Word Document Documentation** | Word Document | [LAB2_Kanban_Project_Documentation.docx](LAB2_Kanban_Project_Documentation.docx) | Complete |
 | **PDF Document Documentation** | PDF Document | [LAB2_Kanban_Project_Documentation.pdf](LAB2_Kanban_Project_Documentation.pdf) | Complete |
 | **Work Breakdown Structure (WBS)** | Markdown | [Kanban_Work_Breakdown_Structure.md](Kanban_Work_Breakdown_Structure.md) | Complete |
-| **Extracted Screenshots Directory** | PNG Images | [screenshots/](screenshots/) | Complete (8 Images) |
+| **Extracted Screenshots Directory** | PNG Images | [screenshots/](screenshots/) | Complete (9 Images) |
 
 ---
 
@@ -96,3 +96,14 @@ Lab 2 focuses on applying agile project management principles using **Jira Softw
 
 ![FR-003 Details](screenshots/07_FR_Details_and_Acceptance_Criteria.png)
 ![FR-003 Subtasks](screenshots/08_FR_Subtasks.png)
+
+---
+
+### 7. Sprint Burndown Chart (`SCRUM Sprint 1`)
+- **Sprint Name:** `SCRUM Sprint 1`
+- **Sprint Goal:** *"Implementing ICU bed alloction."*
+- **Timeline:** August 28th, 2026 – August 30th, 2026
+- **Estimation Field:** Story Points
+
+![Sprint Burndown Chart](screenshots/09_Burndown_Chart.png)
+
